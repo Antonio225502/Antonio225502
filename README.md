@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! eu sou Antonio
 
-<!--
-**Antonio225502/Antonio225502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Cursando informatica
+- 📫 How to reach me: antonio.honorato7@aluno.ce.gov.br
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Antonio225502&theme=dark&show_icons=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio225502&layout-compact&langs_count-16&theme=dark">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a>
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  </a>
+</div>
